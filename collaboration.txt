@@ -1,0 +1,2 @@
+Lounas : Je participe à ce projet collaboratif pour apprendre à mieux utiliser GitHub. 
+C'est une première expérience intéressante de travail en équipe avec des branches et des pull requests.
